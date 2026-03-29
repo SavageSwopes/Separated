@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: efc73b2e477d1cf4bbe3c3ff953d7dbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3115637794291024587
+    second: Radar Wave-sheet_0
+  - first:
+      213: -7772077700381520669
+    second: Radar Wave-sheet_1
+  - first:
+      213: 5630426601390471861
+    second: Radar Wave-sheet_2
+  - first:
+      213: 1463315714482895428
+    second: Radar Wave-sheet_3
+  - first:
+      213: -2169476091994668536
+    second: Radar Wave-sheet_4
+  - first:
+      213: -2722546879634967031
+    second: Radar Wave-sheet_5
+  - first:
+      213: -5965536466260923443
+    second: Radar Wave-sheet_6
+  - first:
+      213: -6973974767950384099
+    second: Radar Wave-sheet_7
+  - first:
+      213: -6420174708584655238
+    second: Radar Wave-sheet_8
+  - first:
+      213: 7385453162960988432
+    second: Radar Wave-sheet_9
+  - first:
+      213: -3764653472274431766
+    second: Radar Wave-sheet_10
+  - first:
+      213: -130131367428799499
+    second: Radar Wave-sheet_11
+  - first:
+      213: 6977620310542826667
+    second: Radar Wave-sheet_12
+  - first:
+      213: 1914272921675783361
+    second: Radar Wave-sheet_13
+  - first:
+      213: 9206898129121722931
+    second: Radar Wave-sheet_14
+  - first:
+      213: 5973011688647091603
+    second: Radar Wave-sheet_15
+  - first:
+      213: 795491509273525317
+    second: Radar Wave-sheet_16
+  - first:
+      213: -6810387846433075000
+    second: Radar Wave-sheet_17
+  - first:
+      213: 4057441432054619886
+    second: Radar Wave-sheet_18
+  - first:
+      213: 6995504072481480129
+    second: Radar Wave-sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Radar Wave-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 265
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d7086fee703c4d0800000000000000
+      internalID: -3115637794291024587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radar Wave-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 259
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.28102875, y: 0.51742446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baf9c5a92b432e40800000000000000
+      internalID: 5630426601390471861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radar Wave-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 240
+        width: 45
+        height: 67
+      alignment: 9
+      pivot: {x: 0.25623032, y: 0.49651644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44afffba3edbe4410800000000000000
+      internalID: 1463315714482895428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radar Wave-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 219
+        width: 63
+        height: 108
+      alignment: 9
+      pivot: {x: 0.2903636, y: 0.49454555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80284fb1df874e1e0800000000000000
+      internalID: -2169476091994668536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radar Wave-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 201
+        width: 85
+        height: 143
+      alignment: 9
+      pivot: {x: 0.16778995, y: 0.4893688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9067203a902973ad0800000000000000
+      internalID: -2722546879634967031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radar Wave-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 185
+        width: 109
+        height: 177
+      alignment: 9
+      pivot: {x: 0.04575957, y: 0.49794307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbe0e1d038263da0800000000000000
+      internalID: -5965536466260923443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radar Wave-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 157
+        width: 129
+        height: 225
+      alignment: 9
+      pivot: {x: 0.068827786, y: 0.5172903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019239b95866e7660800000000000000
+      internalID: 7385453162960988432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radar Wave-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 116
+        width: 153
+        height: 297
+      alignment: 9
+      pivot: {x: 0.10757905, y: 0.518819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f34546f53ea13ef0800000000000000
+      internalID: -130131367428799499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radar Wave-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 90
+        width: 172
+        height: 344
+      alignment: 9
+      pivot: {x: 0.095139615, y: 0.5009779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc52ab741dd09a10800000000000000
+      internalID: 1914272921675783361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radar Wave-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 64
+        width: 195
+        height: 377
+      alignment: 9
+      pivot: {x: 0.034125224, y: 0.5026847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395e0150c7664e250800000000000000
+      internalID: 5973011688647091603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radar Wave-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 27
+        width: 237
+        height: 430
+      alignment: 9
+      pivot: {x: 0.045186616, y: 0.51474404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c018be2654ac71a0800000000000000
+      internalID: -6810387846433075000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4cb3042626becf842bbd6ce5fb11f07c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Radar Wave-sheet_0: -3115637794291024587
+      Radar Wave-sheet_1: -7772077700381520669
+      Radar Wave-sheet_10: -3764653472274431766
+      Radar Wave-sheet_11: -130131367428799499
+      Radar Wave-sheet_12: 6977620310542826667
+      Radar Wave-sheet_13: 1914272921675783361
+      Radar Wave-sheet_14: 9206898129121722931
+      Radar Wave-sheet_15: 5973011688647091603
+      Radar Wave-sheet_16: 795491509273525317
+      Radar Wave-sheet_17: -6810387846433075000
+      Radar Wave-sheet_18: 4057441432054619886
+      Radar Wave-sheet_19: 6995504072481480129
+      Radar Wave-sheet_2: 5630426601390471861
+      Radar Wave-sheet_3: 1463315714482895428
+      Radar Wave-sheet_4: -2169476091994668536
+      Radar Wave-sheet_5: -2722546879634967031
+      Radar Wave-sheet_6: -5965536466260923443
+      Radar Wave-sheet_7: -6973974767950384099
+      Radar Wave-sheet_8: -6420174708584655238
+      Radar Wave-sheet_9: 7385453162960988432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

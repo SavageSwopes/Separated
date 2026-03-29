@@ -1,0 +1,46 @@
+{
+    "version": 1,
+    "name": "Gameplay",
+    "maps": [
+        {
+            "name": "GamePlay",
+            "id": "2c474dfa-820d-4c45-94a7-b80b56d87fd7",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "827d51bc-b139-47b7-a9d8-7f5a639d267f",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ed6d6cfc-5298-434e-8f42-c17d28796674",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "53fd9c24-1d6f-412a-a217-af58de8ac231",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
